@@ -36,25 +36,5 @@
       "image": "https://cdn0.recetasgratis.net/es/posts/1/8/8/hallacas_venezolanas_65881_600_square.jpg",
       "likes": 2
     }
-  ],
-  "drinks": [
-    {
-      "id": 1,
-      "name": "Guarapita",
-      "image": "https://www.venezuelatuya.com/comida/img/guarapita.jpg",
-      "likes": 5
-    },
-    {
-      "id": 2,
-      "name": "Papelón con limón",
-      "image": "https://www.pequerecetas.com/wp-content/uploads/2020/07/papelon-con-limon-receta.jpg",
-      "likes": 3
-    },
-    {
-      "id": 3,
-      "name": "Café Tinto",
-      "image": "https://www.demoslavueltaaldia.com/sites/default/files/2-4.jpg",
-      "likes": 7
-    }
   ]
 }
