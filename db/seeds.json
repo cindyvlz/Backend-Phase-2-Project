@@ -4,37 +4,37 @@
       "id": 1,
       "name": "Arepa",
       "image": "https://alimentosaludable.blog/wp-content/uploads/recetas/platos-tipicos/reina-pepiada/reina-pepiada.jpg",
-      "likes": 8
+      "description": "A traditional Venezuelan cornmeal bread that is often stuffed with various fillings."
     },
     {
       "id": 2,
       "name": "Cachapa",
       "image": "https://www.pequerecetas.com/wp-content/uploads/2021/06/cachapa-receta-venezolana.jpg",
-      "likes": 14
+      "description": "A sweet corn pancake made with fresh corn kernels and typically filled with cheese."
     },
     {
       "id": 3,
       "name": "Empanada",
       "image": "https://i0.wp.com/www.construarte.com.ve/wp-content/uploads/2017/07/empanada-rellena-venezola.jpg?fit=1024%2C681",
-      "likes": 3
+      "description": "A savory pastry filled with a variety of ingredients such as meat, cheese, or vegetables."
     },
     {
       "id": 4,
       "name": "Desayuno Criollo",
       "image": "https://lascaladepio.com/wp-content/uploads/2023/01/DSs7JaaX4AImhvJ.jpg",
-      "likes": 4
+      "description": "A traditional Venezuelan breakfast consisting of various components like eggs, cheese, arepas, and more."
     },
     {
       "id": 5,
       "name": "Pabellon",
       "image": "https://hazlovegan.com/wp-content/uploads/2021/03/Pabellon-venezolano-vegano-2.jpg",
-      "likes": 1
+      "description": "Venezuela's national dish, consisting of shredded beef, black beans, rice, and fried plantains."
     },
     {
       "id": 6,
       "name": "Hallaca",
       "image": "https://cdn0.recetasgratis.net/es/posts/1/8/8/hallacas_venezolanas_65881_600_square.jpg",
-      "likes": 2
+      "description": "A traditional Venezuelan dish made of corn dough stuffed with a flavorful mixture of meat, olives, and raisins."
     }
   ]
 }
